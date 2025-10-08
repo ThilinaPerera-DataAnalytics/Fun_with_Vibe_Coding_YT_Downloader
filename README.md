@@ -4,6 +4,8 @@
 Project Series - Fun with Vibe Coding
 Project 01 
 ```
+![cover image](cover_image.png)
+
 A lightweight **YouTube Downloader App** built with **Streamlit** and **yt-dlp**, supporting downloads of single videos or playlists in **audio (.mp3)**, **video-only**, or **merged (audio + video)** formats.  
 All downloads are automatically saved to your **default Windows Downloads** folder.
 
