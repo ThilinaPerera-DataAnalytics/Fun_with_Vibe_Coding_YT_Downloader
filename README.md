@@ -92,6 +92,8 @@ streamlit run app.py
 The app will open automatically in your browser at:
 👉 `http://localhost:8501`
 
+
+![app UI](app_ui.png)
 ---
 
 ## 💡 Usage Guide
